@@ -4,6 +4,12 @@ by capturing run time of data-loading, filtering, and grouping process.
   
   
   
+### Environment  
+-- Macbook Pro 2019  
+-- MacOS: BigSur  
+-- Memory: 8GB
+
+  
 ### Dataset used
 -- Synthetic Financial Datasets For Fraud Detection  
 -- https://www.kaggle.com/ntnu-testimon/paysim1  
